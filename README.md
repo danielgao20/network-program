@@ -71,6 +71,8 @@ Press any other key to exit.
 
 8. **Show graph**: This option allows you to visualize the social network as a graph.
 
+![Graph Image](https://github.com/danielgao20/network-program/blob/main/project/graphview.png)
+
 9. **Save changes**: The user will be asked to provide a file name by selecting this option. All the connections will be saved to the file in the format of the connection file. The new file must have the same format and structure as the original connection file. Pressing any other key will terminate the program.
 
 ## License
